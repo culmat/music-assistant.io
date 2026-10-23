@@ -38,6 +38,8 @@ In the configuration, you only need to click the save button
 
 Use the browse view or search to find stations to add to the library.
 
+In the browse view, each station shows the song or programme on air and its cover in place of the station's own description and picture. Both follow the music while the view is open.
+
 ## Known Issues / Notes
 
 - Radio France's now playing service names a new song some 20 to 40 seconds after it started. Music Assistant moves on to the song the service announced as next once the previous one should have ended, so the details usually change with the music
